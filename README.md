@@ -7,6 +7,7 @@ STA 380 Machine Learning Assignment
 3. [File Descriptions](#3-file-descriptions)
 ​
 ## 1. Team Members
+
 1.Saaket Joshi (SSJ778)
 
 2. Rohan Giri (RG52539)
