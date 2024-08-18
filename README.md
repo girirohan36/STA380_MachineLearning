@@ -5,12 +5,10 @@ STA 380 Machine Learning Assignment
 1. [Team Members](#1-team_members)
 2. [Questions](#2-questions)
 3. [File Descriptions](#3-file-descriptions)
-6. [Data](#6-data)
-7. [Contributors/Team](#7-contributorsteam)
 ​
 ## 1. Team Members
-1. Rohan Giri
-2. Saaket Joshi
+1.Saaket Joshi (SSJ778)
+2. Rohan Giri (RG52539)
 
 ## 2. Questions
 - Q1. Probability practice
