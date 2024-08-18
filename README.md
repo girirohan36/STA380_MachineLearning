@@ -1,5 +1,5 @@
 # STA380_MachineLearning
-STA 380 Machine Learning Assignment 
+STA 380 Machine Learning Assignment for Part 2
 
 ## Table of Contents
 1. [Team Members](#1-team_members)
