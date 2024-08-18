@@ -2,15 +2,16 @@
 STA 380 Machine Learning Assignment 
 
 ## Table of Contents
-1. [Introduction](#1-introduction)
+1. [Team](#1-introduction)
 2. [Questions](#2-questions)
 3. [File Descriptions](#3-file-descriptions)
 6. [Data](#6-data)
 7. [Contributors/Team](#7-contributorsteam)
-
-## 1. Introduction 
-In our "Introduction to Machine Learning" assignment, my team has undertaken a comprehensive examination of the fundamental aspects of ML. This exploration spans the foundational principles of probability, advanced data wrangling techniques, the art of visual storytelling, methodologies in clustering and topic modeling, and the intricacies of neural networks. We invite you to delve into our repository for a detailed analysis and insights.
 ​
+## 1. Team Members
+1. Rohan Giri
+2. Saaket Joshi
+
 ## 2. Questions
 - Q1. Probability practice
 - Q2. Wrangling the Billboard Top 100
@@ -36,6 +37,4 @@ In our "Introduction to Machine Learning" assignment, my team has undertaken a c
 ## 6. Data
 Data files necessary for conducting the analysis can be found at the following link: [Data Files](https://www.dropbox.com/scl/fi/y4yyzzxztxstzn2spto86/Data.zip?rlkey=2jumsil9nxcm0r7tfhp82ij06&dl=0)
 
-## 7. Team
-1. Rohan Giri
-2. Saaket Joshi
+
