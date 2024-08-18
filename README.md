@@ -2,7 +2,7 @@
 STA 380 Machine Learning Assignment 
 
 ## Table of Contents
-1. [Team](#1-team_members)
+1. [Team Members](#1-team_members)
 2. [Questions](#2-questions)
 3. [File Descriptions](#3-file-descriptions)
 6. [Data](#6-data)
@@ -24,8 +24,8 @@ STA 380 Machine Learning Assignment
 - Q9. Image classification with neural networks
 
 ## 3. File Descriptions
-- **`Q1-Probability.ipynb`**: Jupyter Notebook with Python code and description for Q1
-- **`Q2-Data-Wrangling.md`**: Markdown file containing R code for Q2
+- **`Assignment1_Probability_practice.ipynb`**: Jupyter Notebook with Python code for QS1
+- **`Assignment 2 - Wrangling the Billboard top 100.ipynb`**: Jupyter Notebook with Python code for QS2
 - **`Q3-Visual-Story-Telling-Green-Buildings.md`**: Markdown file containing R code for Q3
 - **`Q4-Visual-Story-Telling-Part-II-Capital-Metro-Data.md`**: Markdown file containing R code for Q4
 - **`Q5-Clustering-and-dimensionality-reduction.md`**: Markdown file containing R code for Q5
