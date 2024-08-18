@@ -36,3 +36,4 @@ STA 380 Machine Learning Assignment for Part 2
 
 
 
+[Assignment 1 Probability practice.ipynb](Assignment1_Probability_practice/Assignment%201%20Probability%20practice.ipynb)
