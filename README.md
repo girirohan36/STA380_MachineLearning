@@ -24,17 +24,15 @@ STA 380 Machine Learning Assignment
 - Q9. Image classification with neural networks
 
 ## 3. File Descriptions
-- **`Assignment1_Probability_practice.ipynb`**: Jupyter Notebook with Python code for QS1
-- **`Assignment 2 - Wrangling the Billboard top 100.ipynb`**: Jupyter Notebook with Python code for QS2
-- **`Q3-Visual-Story-Telling-Green-Buildings.md`**: Markdown file containing R code for Q3
-- **`Q4-Visual-Story-Telling-Part-II-Capital-Metro-Data.md`**: Markdown file containing R code for Q4
-- **`Q5-Clustering-and-dimensionality-reduction.md`**: Markdown file containing R code for Q5
-- **`Q6-Market-Segmentation.md`**: Markdown file containing R code for Q6
-- **`Q7-The Reuters Corpus.ipynb`**: Jupyter Notebook with Python code for Q7
-- **`Q8-Association-Rule-Mining.md`**: Markdown file containing R code for Q8
-- **`Q9-Image classification with neural networks.ipynb`**: Jupyter Notebook with Python code for Q9
+- **`Assignment 1 Probability practice.ipynb`**: Jupyter Notebook with Python code for QS1
+- **`Assignment 2 - Wrangling the Billboard top 100 .ipynb`**: Jupyter Notebook with Python code for QS2
+- **`Assignment 3 - Green Buildings.ipynb`**: Jupyter Notebook with Python code for QS3
+- **`Assignment 4 Cap Metro.ipynb`**: Jupyter Notebook with Python code for QS4
+- **`Assignment 5- Clustering and dimensionality reduction.ipynb`**: Jupyter Notebook with Python code for QS5
+- **`Assignment 6 - Market Segmentation.ipynb`**: Jupyter Notebook with Python code for QS6
+- **`Assignment 7 The Reuters corpus.ipynb`**: Jupyter Notebook with Python code for Q7
+- **`Assignment 8 - Association.Rmd`**: Markdown file containing R code for Q8 and PDF Knitted File
+- **`Assignment 9 Image Classification with neural networks.ipynb`**: Jupyter Notebook with Python code for Q9
 
-## 6. Data
-Data files necessary for conducting the analysis can be found at the following link: [Data Files](https://www.dropbox.com/scl/fi/y4yyzzxztxstzn2spto86/Data.zip?rlkey=2jumsil9nxcm0r7tfhp82ij06&dl=0)
 
 
