@@ -13,15 +13,15 @@ STA 380 Machine Learning Assignment
 2. Rohan Giri (RG52539)
 
 ## 2. Questions
-- Q1. Probability practice
-- Q2. Wrangling the Billboard Top 100
-- Q3. Visual story telling part 1: green buildings
-- Q4. Visual story telling part 2: Capital Metro data
-- Q5. Clustering and dimensionality reduction
-- Q6. Market segmentation
-- Q7. The Reuters Corpus
-- Q8. Association rule mining
-- Q9. Image classification with neural networks
+- QS1. Probability practice
+- QS2. Wrangling the Billboard Top 100
+- QS3. Visual story telling part 1: green buildings
+- QS4. Visual story telling part 2: Capital Metro data
+- QS5. Clustering and dimensionality reduction
+- QS6. Market segmentation
+- QS7. The Reuters Corpus
+- QS8. Association rule mining
+- QS9. Image classification with neural networks
 
 ## 3. File Descriptions
 - **`Assignment 1 Probability practice.ipynb`**: Jupyter Notebook with Python code for QS1
