@@ -2,7 +2,7 @@
 STA 380 Machine Learning Assignment 
 
 ## Table of Contents
-1. [Team](#1-introduction)
+1. [Team](#1-team_members)
 2. [Questions](#2-questions)
 3. [File Descriptions](#3-file-descriptions)
 6. [Data](#6-data)
