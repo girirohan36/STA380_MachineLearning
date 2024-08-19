@@ -26,6 +26,7 @@ STA 380 Machine Learning Assignment for Part 2
 ## 3. File Descriptions
 - **[Assignment 1 Probability practice.ipynb](Assignment1_Probability_practice/Assignment%201%20Probability%20practice.ipynb)**: Jupyter Notebook with Python code for QS1 
 - **[Assignment 2 Wrangling the Billboard top 100 .ipynb](Assignment2_Wrangling_the_Billboard_top_100)**: Jupyter Notebook with Python code for QS2
+- **[Assignment 3 - Green Buildings.ipynb](Assignment3_Green_Buildings/Assignment%203%20-%20Green%20Buildings.ipynb)**: Jupyter Notebook with Python code for QS1
 - **[Assignment 3 Green Buildings.ipynb](Assignment3_Green_Buildings/Assignment 3 - Green Buildings.ipynb)**: Jupyter Notebook with Python code for QS3
 - **[Assignment 4 Cap Metro.ipynb](Assignment4_Cap_Metro/Assignment 4 Cap Metro.ipynb)**: Jupyter Notebook with Python code for QS4
 - **[Assignment 5 Clustering and dimensionality reduction.ipynb](Assignment5_Clustering_and_dimensionality_reduction/Assignment 5- Clustering and dimensionality reduction.ipynb)**: Jupyter Notebook with Python code for QS5
