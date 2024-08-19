@@ -31,7 +31,7 @@ STA 380 Machine Learning Assignment for Part 2
 - **[Assignment 5 - Clustering and dimensionality reduction.ipynb](Assignment5_Clustering_and_dimensionality_reduction/Assignment%205-%20Clustering%20and%20dimensionality%20reduction.ipynb)**: Jupyter Notebook with Python code for QS5
 - **[Assignment 6 - Market Segmentation.ipynb](Assignment6_Market_Segmentation/Assignment%206%20-%20Market%20Segmentation.ipynb)**: Jupyter Notebook with Python code for QS6
 - **[Assignment 7 The Reuters corpus.ipynb](Assignment7_The_Reuters_corpus/Assignment%207%20The%20Reuters%20corpus.ipynb)**: Jupyter Notebook with Python code for QS7
-- **[Assignment 8 - Association Rule Mining](Assignment8_Association_rule_mining)**: Markdown file containing R code for Q8 and PDF Knitted File
+- **[Assignment 8 - Association Rule Mining](Assignment8_Association_rule_mining)**: Markdown file containing R code and PDF Knitted File for Q8
 - **[Assignment 9 Image Classification with neural networks.ipynb](Assignment9_Image_classification_with_neural_networks/Assignment9_Image_classification_with_neural_networks.ipynb)**: Jupyter Notebook with Python code for Q9
 
 
